@@ -1,0 +1,162 @@
+restaurant_id,restauran_type,rating,reviews,price,source
+1,"['Bars', 'American (Traditional)']",,,,yelp
+2,"['Steakhouses', 'Mexican']",4.0,6,,yelp
+3,['Pizza'],4.0,3216,,yelp
+4,"['American (New)', 'Car Wash']",3.0,127,,yelp
+5,"['Mediterranean', 'Middle Eastern']",5.0,40,,yelp
+6,['Middle Eastern'],4.5,90,,yelp
+7,"['Tapas/Small Plates', 'Wine Bars', 'Spanish']",4.0,505,,yelp
+8,"['Mexican', 'Tapas Bars']",4.0,1301,$$,yelp
+9,['Seafood'],2.0,69,,yelp
+10,"['Grocery', 'Italian', 'Pizza']",,,,yelp
+11,['Cafeteria'],,,,yelp
+12,"['Seafood', 'Salad', 'Sandwiches']",4.5,36,,yelp
+13,"['Fast Food', 'Burgers']",2.0,55,,yelp
+14,['Cafes'],,,,yelp
+15,"['Juice Bars & Smoothies', 'Soup', 'Cafes']",4.5,6,,yelp
+16,"['Cafes', 'Coffee & Tea', 'Gelato']",3.5,78,,yelp
+17,"['Coffee & Tea', 'Hookah Bars', 'Cafes']",4.0,20,,yelp
+18,"['Cafes', 'Italian']",2.5,89,,yelp
+19,"['American (Traditional)', 'Bars']",2.0,1,,yelp
+20,"['Coffee & Tea', 'Sandwiches']",5.0,5,,yelp
+21,"['Pizza', 'Cafes', 'American (Traditional)']",3.5,51,,yelp
+22,"['Sandwiches', 'Salad', 'Bars']",4.5,38,,yelp
+23,"['Southern', 'Breakfast & Brunch']",,,,yelp
+24,['Fast Food'],3.5,11,,yelp
+25,"['Japanese', 'Seafood']",4.5,37,,yelp
+26,"['Chicken Wings', 'Korean']",4.0,52,,yelp
+27,"['Poke', 'Asian Fusion', 'Japanese']",4.5,96,,yelp
+28,"['Burgers', 'Pizza', 'Sports Bars']",,,,yelp
+29,"['Burgers', 'Chicken Wings']",,,,yelp
+30,['Buffets'],,,,yelp
+31,"['Fast Food', 'Burgers', 'Hot Dogs']",3.5,184,,yelp
+32,"['Spanish', 'Basque', 'French']",4.5,645,,yelp
+33,"['Cuban', 'Sandwiches']",4.0,103,,yelp
+34,"['Pizza', 'Italian', 'Sandwiches']",3.5,437,,yelp
+35,"['Pizza', 'Chicken Wings', 'Sandwiches']",1.0,45,$,yelp
+36,"['Tacos', 'Tex-Mex', 'Sports Bars']",3.0,53,,yelp
+37,['Restaurants'],5.0,1,,yelp
+38,"['Ramen', 'Tapas/Small Plates']",4.5,251,,yelp
+39,"['Sushi Bars', 'Lounges', 'Japanese']",4.5,1008,,yelp
+40,"['Food Stands', 'Latin American', 'Mexican']",4.5,35,,yelp
+41,"['American (Traditional)', 'Pubs']",3.5,105,,yelp
+42,['Middle Eastern'],4.0,43,,yelp
+43,"['Burgers', 'Juice Bars & Smoothies', 'Fast Food']",4.0,61,,yelp
+44,['Mediterranean'],3.0,6,,yelp
+45,"['Sandwiches', 'Fast Food', 'Delis']",3.5,63,,yelp
+46,['Breakfast & Brunch'],1.0,1,,yelp
+47,"['Salad', 'American (New)', 'Vegetarian']",4.5,22,,yelp
+48,"['Malaysian', 'Pan Asian', 'Chinese']",4.5,173,$$,yelp
+49,"['Beer, Wine & Spirits', 'Italian']",4.0,223,,yelp
+50,['American (New)'],,,,yelp
+51,"['Asian Fusion', 'Sushi Bars', 'Ramen']",3.0,2,,yelp
+52,['Restaurants'],3.0,4,,yelp
+53,"['Italian', 'Chicken Wings', 'Salad']",4.0,402,,yelp
+54,"['Pizza', 'Sicilian']",4.5,9,,yelp
+55,"['Pizza', 'Chicken Wings', 'Italian']",2.5,252,,yelp
+56,"['Pizza', 'Chicken Wings', 'Salad']",2.0,12,,yelp
+57,"['Greek', 'American (New)', 'Salad']",3.0,66,,yelp
+58,"['Bakeries', 'Sandwiches']",3.5,2,,yelp
+59,"['Scandinavian', 'Breakfast & Brunch', 'Cafeteria']",3.5,146,,yelp
+60,['Breakfast & Brunch'],3.0,182,,yelp
+61,"['American (New)', 'Bars']",4.0,1796,,yelp
+62,"['Sandwiches', 'Delis', 'Fast Food']",3.0,69,,yelp
+63,['Breakfast & Brunch'],,,,yelp
+64,['Seafood'],2.0,131,,yelp
+65,"['Fast Food', 'Burgers']",2.5,40,,yelp
+66,"['Mexican', 'Cuban']",3.5,355,,yelp
+67,"['Vietnamese', 'Noodles', 'Soup']",4.0,402,$$,yelp
+68,['Restaurants'],,,,yelp
+69,['Italian'],5.0,2,,yelp
+70,"['Asian Fusion', 'Cocktail Bars']",3.5,231,,yelp
+71,"['Coffee & Tea', 'Pop-Up Restaurants']",,,,yelp
+72,"['Southern', 'Steakhouses']",4.0,42,,yelp
+73,"['Chinese', 'Vietnamese', 'Thai']",2.0,186,,yelp
+74,"['Comfort Food', 'Sandwiches', 'Coffee Roasteries']",3.5,83,,yelp
+75,['Steakhouses'],4.5,641,,yelp
+76,"['American (New)', 'Gastropubs', 'Burgers']",4.0,593,,yelp
+77,"['Venues & Event Spaces', 'Sports Bars', 'American (Traditional)']",4.0,174,,yelp
+78,"['Fast Food', 'Burgers', 'Coffee & Tea']",2.0,104,,yelp
+79,['American (Traditional)'],5.0,1,,yelp
+80,"['Cafes', 'Bars']",4.5,19,,yelp
+81,['Barbeque'],3.5,189,,yelp
+82,"['Mexican', 'Tex-Mex', 'Caterers']",2.5,51,,yelp
+83,"['Desserts', 'Coffee & Tea', 'Breakfast & Brunch']",4.0,104,,yelp
+84,"['Cafes', 'Ramen']",4.0,395,,yelp
+85,"['Asian Fusion', 'American (Traditional)']",4.0,1,,yelp
+86,['Sushi Bars'],4.5,28,,yelp
+87,['Diners'],,,,yelp
+88,"['Sushi Bars', 'Asian Fusion', 'Thai']",4.5,35,,yelp
+89,"['Japanese', 'Sushi Bars', 'Seafood']",4.0,484,,yelp
+90,"['Southern', 'Chicken Shop', 'Pop-Up Restaurants']",4.0,22,,yelp
+91,"['Italian', 'Sandwiches', 'Pizza']",,,,yelp
+92,['Sushi Bars'],5.0,19,,yelp
+93,"['Sandwiches', 'Beer Bar', 'Whiskey Bars']",3.5,708,,yelp
+94,"['Fast Food', 'Chinese']",3.5,12,,yelp
+95,"['Salad', 'Soup', 'Sandwiches']",,,,yelp
+96,['Pizza'],1.5,91,,yelp
+97,"['Korean', 'Barbeque', 'Cocktail Bars']",3.5,71,,yelp
+98,"['Vietnamese', 'Soup', 'Bubble Tea']",3.5,243,,yelp
+99,"['Burgers', 'Pubs', 'Asian Fusion']",4.0,442,,yelp
+100,"['Sandwiches', 'Mediterranean', 'Fast Food']",3.5,58,,yelp
+101,"['Pizza', 'Italian', 'Chicken Wings']",1.5,43,,yelp
+102,"['Sushi Bars', 'Poke', 'Asian Fusion']",4.0,9,,yelp
+103,"['Mediterranean', 'Salad', 'Sandwiches']",4.0,153,,yelp
+104,"['Bars', 'American (Traditional)', 'Mini Golf']",3.0,113,,yelp
+105,"['Mexican', 'Fast Food']",3.0,5,,yelp
+106,"['Gas Stations', 'Convenience Stores', 'Fast Food']",3.0,2,,yelp
+107,['Pizza'],3.0,149,,yelp
+108,['Pizza'],3.5,3,,yelp
+109,"['American (New)', 'Cocktail Bars']",4.0,97,,yelp
+110,"['Seafood', 'American (New)']",,,,yelp
+111,"['Sandwiches', 'American (Traditional)', 'Salad']",3.5,22,,yelp
+112,"['Caribbean', 'Bars']",4.0,196,$$,yelp
+113,['Pizza'],3.0,214,,yelp
+114,"['Southern', 'Comfort Food', 'Whiskey Bars']",4.0,102,,yelp
+115,"['Bakeries', 'French', 'Cafes']",4.5,13,,yelp
+116,"['Pizza', 'Salad', 'Sandwiches']",2.0,225,,yelp
+117,"['Sushi Bars', 'Thai']",3.5,223,$$,yelp
+118,"['Sports Bars', 'Greek']",,,,yelp
+119,"['Seafood', 'Tacos', 'Cocktail Bars']",3.5,849,,yelp
+120,['Pizza'],4.0,416,,yelp
+121,"['Breakfast & Brunch', 'Cocktail Bars']",4.5,10,,yelp
+122,['Caribbean'],4.0,22,,yelp
+123,['Caribbean'],4.0,36,,yelp
+124,['Indian'],4.5,6,,yelp
+125,"['Seafood', 'Dive Bars']",4.0,850,,yelp
+126,"['Donuts', 'Burgers']",4.0,1192,,yelp
+127,['Sandwiches'],3.0,7,,yelp
+128,"['Bubble Tea', 'Burgers', 'Juice Bars & Smoothies']",3.0,24,,yelp
+129,"['Fast Food', 'Mexican']",2.0,21,,yelp
+130,"['Mediterranean', 'Halal', 'Lebanese']",4.5,291,,yelp
+131,"['Food Trucks', 'Pizza', 'Mexican']",2.5,31,,yelp
+132,"['Soup', 'Salad', 'Food Court']",3.0,6,,yelp
+133,['Food Court'],4.0,1,,yelp
+134,"['American (Traditional)', 'Bars']",3.0,3,,yelp
+135,"['Halal', 'Middle Eastern', 'Mediterranean']",3.5,122,,yelp
+136,['Restaurants'],,,,yelp
+137,"['Seafood', 'Cocktail Bars', 'Music Venues']",4.5,1764,,yelp
+138,['Breakfast & Brunch'],3.5,413,,yelp
+139,"['Burgers', 'Hot Dogs', 'Fast Food']",3.0,2132,,yelp
+140,"['American (New)', 'Cocktail Bars', 'Chicken Wings']",5.0,39,,yelp
+141,['Breakfast & Brunch'],4.0,418,$$,yelp
+142,"['Desserts', 'Bakeries', 'Cafes']",4.5,79,,yelp
+143,"['Sandwiches', 'American (Traditional)']",3.5,46,$,yelp
+144,['Indian'],3.5,165,,yelp
+145,"['Juice Bars & Smoothies', 'Sandwiches']",3.0,47,,yelp
+146,"['Cocktail Bars', 'Italian']",2.5,45,,yelp
+147,['Cafeteria'],,,,yelp
+148,['American (New)'],3.0,64,,yelp
+149,"['Mexican', 'Tex-Mex', 'Sports Bars']",3.0,4,,yelp
+150,"['Japanese', 'Korean', 'Sushi Bars']",3.0,92,,yelp
+151,"['Salad', 'Juice Bars & Smoothies', 'Vegan']",4.5,651,,yelp
+152,"['American (New)', 'Tacos', 'Vegetarian']",4.5,54,,yelp
+153,"['Vietnamese', 'Noodles', 'Sandwiches']",4.0,64,,yelp
+154,"['Diners', 'Breakfast & Brunch', 'American (Traditional)']",3.0,131,,yelp
+155,"['Sushi Bars', 'Ramen', 'Seafood']",4.0,592,,yelp
+156,"['Breakfast & Brunch', 'Sandwiches', 'Coffee & Tea']",4.0,1546,,yelp
+157,['Food Court'],,,,yelp
+158,['Cafes'],,,,yelp
+159,"['Salad', 'Sandwiches', 'Soup']",4.5,3,,yelp
+160,"['Chicken Wings', 'Wraps', 'Sandwiches']",3.0,120,$,yelp
+161,['Middle Eastern'],3.0,6,,yelp

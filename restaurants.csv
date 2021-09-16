@@ -1,0 +1,341 @@
+id,name
+1,Aerial Kitchen & Bar
+2,Alluvia
+3,Antico Pizza
+4,Auto Spa Bistro
+5,Aviva by Kameel Midtown
+6,Aziza
+7,Barcelona Westside Ironworks
+8,bartaco
+9,Blu Seafood House
+10,Bottega Luisa
+11,Brittain Dining Hall
+12,Brown Bag Seafood
+13,Burger King
+14,Cafe Adison
+15,Cafe West Express
+16,Caffe Antico
+17,Caffeine Atlanta
+18,Caffé Gio
+19,Canopy Court
+20,Capital Commons
+21,Carolyn’s Gourmet Cafe
+22,Cheba Hut Toasted Subs
+23,Chicago’s Very Own
+24,Chick-fil-A
+25,Chirori - Yakitori & Kushikatsu
+26,Choong Man Chicken - Georgia Tech
+27,Circle Poke
+28,Club Room
+29,Cluck N Mooh
+30,Conference Dining Room
+31,Cook Out
+32,Cooks & Soldiers
+33,Crazy Cuban
+34,DaVinci’s Pizzeria
+35,Domino’s Pizza
+36,Dos Amigos
+37,DramaTech Concessions
+38,E Ramen +
+39,Eight Sushi Lounge
+40,El Burro Pollo
+41,Eleventh Street Pub
+42,Falafel Nation
+43,Farm Burger - Midtown Atlanta
+44,Fava Mezze
+45,Firehouse Subs
+46,First Restaurant
+47,Flower Child - Atlanta
+48,Food Terminal - Atlanta
+49,Forza Storico
+50,Freddie’s Bananas
+51,Genji
+52,Georgia Cafe
+53,Gio’s Chicken Amalfitano
+54,Gio’s Sicilian Pizza Shop
+55,Goodfellas Pizza & Wings
+56,Goodfellas Pizza and Wings
+57,Gyro Bros
+58,HB Food Anatomy
+59,IKEA Restaurant
+60,J. Christopher’s
+61,JCT Kitchen & Bar
+62,Jimmy John’s
+63,Jimmy’s
+64,King Crab Atl
+65,Krystal
+66,La Fonda Latina
+67,Le Fat
+68,Lil Dino Subs
+69,Little Italy Atlanta
+70,Little Trouble
+71,LiveWire Coffee
+72,LowCountry Steak
+73,Lucky Buddha
+74,Maple Street Biscuit Company
+75,Marcel
+76,Marlow’s Tavern
+77,McCray’s Tavern Midtown
+78,McDonald’s
+79,Michael’s Cafe
+80,Midcity Cafe
+81,Moe’s Original Bar B Que
+82,Moe’s Southwest Grill
+83,Momo Cafe
+84,Momonoki
+85,Mushi Ni
+86,Nagomiya
+87,North Ave Dining Hall
+88,Nova Sushi Bar & Asian Bistro II
+89,O-Ku Sushi
+90,Oddbird
+91,Olive
+92,Omakase By Yun
+93,Ormsbys
+94,Panda Express
+95,Panera Bread
+96,Papa John’s Pizza
+97,Park 27
+98,Pho King
+99,Pijiu Belly
+100,Pita Pit
+101,Pizza Hut
+102,Poke Burri CODA
+103,Poppin Pita Grill
+104,Puttshack at The Interlock
+105,QDOBA Mexican Eats
+106,Quiktrip
+107,Ray’s New York Pizza
+108,Ray’s Pizza Express
+109,Redbird
+110,Reverence
+111,Rising Roll Gourmet Café - Midtown
+112,Rock Steady - Atlanta
+113,Rocky Mountain Pizza
+114,Rowdy Tiger Whiskey Bar & Kitchen
+115,Saint Germain Bakery
+116,Sarpino’s Pizzeria
+117,Satto Thai & Sushi Bar
+118,Sigma Alpha Epsilon
+119,Six Feet Under Pub & Fish House- Westside
+120,Slim & Husky’s Pizza Beeria
+121,"Snooze, an A.M. Eatery"
+122,Spice House
+123,Spice House Midtown
+124,Star of India
+125,Steamhouse Lounge
+126,Sublime Doughnuts
+127,Subway
+128,Sweet & Fresh
+129,Taco Bell
+130,Tannour Mediterranean Grill
+131,TastyBus
+132,TGM Soup
+133,The Collective Food Hall at Coda
+134,The Garden Grille and Bar
+135,The Halal Guys
+136,The Krystal Company
+137,The Optimist
+138,The Silver Skillet
+139,The Varsity
+140,There on Fifth
+141,Thumbs Up Diner
+142,Tiff’s Treats
+143,Tiny Bistro - Temp. CLOSED
+144,Touch
+145,Tropical Smoothie Cafe
+146,Tropicale
+147,Turner Station Break
+148,Twisted Kitchen
+149,Twisted Taco
+150,Umma’s House Restaurant & Cafe
+151,Upbeet
+152,Velvet Taco
+153,Vietvana Pho Noodle House - Atlanta
+154,Waffle House
+155,Wagaya - Westside
+156,West Egg Café
+157,West Village
+158,Wild Bean Cafe
+159,Wildleaf
+160,Wingnuts
+161,Yalla
+162,433 Bishop Event Venue
+163,Aamar Indian Cuisine
+164,Agave Restaurant
+165,Ali Baba Mediterranean
+166,American Deli
+167,Antico
+168,Atkins Park Restaurant & Bar
+169,Atlanta Breakfast Club
+170,Atlas
+171,Atmosphere Restaurant
+172,Atwoods
+173,Babette's Cafe
+174,Baffi Atlanta
+175,Baja Fresh Mexican Grill
+176,Barcelona Wine Bar
+177,Big Easy Grille
+178,Blue Water Food Mart
+179,Bone Garden Cantina
+180,Boogalou Restaurant & Lounge
+181,bp
+182,Cafe Agora
+183,Cafe Apple
+184,Cafe Sunflower Buckhead
+185,Café Intermezzo - Midtown
+186,Campagnolo Restaurant + Bar
+187,Carolyn's Gourmet Cafe and Catering
+188,Catch 12
+189,Chattahoochee Food Works
+190,Cheetah Lounge/ Alluvia Restaurant
+191,Chili's Grill & Bar
+192,Chipotle Mexican Grill
+193,City Winery
+194,Concessions Paschals
+195,Crave Restaurant Atlanta
+196,Cultivate Food and Coffee
+197,Curry Up Now
+198,Dairy Queen
+199,Deja Vu Sports Bar & Lounge
+200,Der Biergarten
+201,DrinkShop
+202,Eats
+203,Ecco
+204,Ecco Buckhead
+205,Ecco Midtown
+206,Egg Harbor Cafe
+207,El Azteca
+208,Empire State South
+209,endive Publik house
+210,Ferst Place
+211,Five Guys
+212,Flower Child (Westside Provisions)
+213,Folk Art Restaurant
+214,Food Terminal
+215,Fox Bros. Bar-B-Q
+216,Fox Bros. Bar-B-Q Westside
+217,Fritti
+218,Garbanzo
+219,Garbanzo Mediterranean Fresh
+220,Gather
+221,Glenn's Kitchen
+222,Graffiti Breakfast
+223,gusto! Ponce
+224,gusto! West Midtown
+225,Hard Rock Cafe
+226,Highland Bakery
+227,Highland Bakery Downtown GSU
+228,Hooters
+229,Houston's
+230,I-GUANNA BORDER GRILL
+231,Irie Mon Cafe
+232,J. Christopher's
+233,J.R. Crickets Downtown
+234,"Jackmont Hospitality, Inc."
+235,Johnny Rockets
+236,Joy Cafe
+237,JR Crickets North Decatur
+238,Juniper Cafe
+239,Jus D's Wings
+240,K & K Soul Food
+241,Knuckies Pizza & Hoagies of Midtown
+242,Kwan's Deli and Korean Kitchen
+243,Lazy Betty
+244,Local Green Atlanta
+245,Local Green Atlanta - West Midtown
+246,Longleaf Restaurant
+247,Lucky China 8 Chinese Restaurant
+248,Lucky China Wings & Sub
+249,Mali Restaurant
+250,Mary Mac's Tea Room
+251,MattChews
+252,Max's Coal Oven Pizzeria
+253,McCormick & Schmick's Seafood & Steaks
+254,McDonald's
+255,Mellow Mushroom Atlanta - Buckhead
+256,Mellow Mushroom Atlanta - Downtown
+257,Mellow Mushroom Atlanta - Emory
+258,Mellow Mushroom Atlanta - Midtown
+259,Michael's Cafe
+260,Midtown Plaza Cafe
+261,Miller Union
+262,Moe's Original BBQ
+263,Moe's Southwest Grill
+264,Morton's The Steakhouse
+265,Mr.V's Restaurant Equipment and Store Fixtures
+266,Mrs Winner's Chicken & Biscuits
+267,Mrs. Winner's Chicken & Biscuits-East Point
+268,Mrs. Winner's Chicken & Biscuits-Stockbridge
+269,Murphy's Restaurant
+270,Nakato Japanese Restaurant
+271,Nan Thai Fine Dining
+272,Negril ATL
+273,Newk's Eatery
+274,NEXT Restaurant & Bar
+275,No Mas! Cantina
+276,Nuevo Laredo Cantina
+277,Olympic Flame Restaurant
+278,Osteria 832 Pasta & Pizza
+279,Papa John's Pizza
+280,Park Bar
+281,Paschal's
+282,Pasta Da Pulcinella
+283,Pittypat's Porch
+284,Poor Calvin's
+285,Popeyes Louisiana Kitchen
+286,Proscenium Cafe & Market
+287,R. Thomas Deluxe Grill
+288,RA Sushi Bar Restaurant
+289,Ration and Dram
+290,Ray's New York Pizza
+291,Republic Lounge
+292,Restaurant Depot
+293,Rosa's Pizza
+294,Scoville Hot Chicken
+295,Silver Skillet
+296,Six Feet Under Pub & Fish House
+297,Slice Downtown
+298,Social Market & Cafe
+299,Sotto Sotto Restaurant
+300,Soul Good Fine Food
+301,Soul Vegetarian Restaurant
+302,Souper Jenny
+303,Souper Jenny Brookhaven
+304,Souper Jenny Westside
+305,South City Kitchen Midtown
+306,STATS Brewpub
+307,Sufi's Kitchen
+308,Suite Food Lounge
+309,Sum'thing Simple Cafe
+310,Sunlow Inc
+311,Surin of Thailand
+312,Taqueria Del Sol
+313,Taqueria on Broad
+314,Ted's Montana Grill
+315,The Beautiful Restaurant
+316,The Capital Grille
+317,The Consulate
+318,The Garden Room
+319,The Gathering Spot ATL
+320,The Melting Pot
+321,The Original J.R. Crickets in Midtown Atlanta
+322,The Painted Duck
+323,"The Sun Dial Restaurant, Bar & View"
+324,The Works -- Upper Westside Atlanta
+325,Thrive
+326,Tin Drum Asian Kitchen & Boba Tea Bar - Georgia Tech
+327,Topgolf
+328,Trap Dog Wings & Burgers
+329,Truva - Virginia Highland
+330,Truva Turkish Kitchen
+331,Tuk Tuk Thai Food Loft
+332,Tuza Taco
+333,Twelve Eighty
+334,Twisted Kitchen - Midtown
+335,West Egg Cafe
+336,White Oak Kitchen & Cocktails
+337,Willy's Mexicana Grill
+338,Wisteria
+339,Yard House
+340,ŌAK Atlanta

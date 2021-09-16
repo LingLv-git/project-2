@@ -1,162 +1,162 @@
-,restrant_name,name,reviewer,price,star,type_Caterers,type_Mexican,type_Tex-Mex,"type_Beer, Wine & Spirits",type_Italian,type_American (New),type_Cocktail Bars,type_Chicken Wings,type_Caribbean,type_Bars,type_Seafood,type_Music Venues,type_Malaysian,type_Pan Asian,type_Chinese,type_Pasta Shops,type_Korean,type_Burgers,type_Pubs,type_Asian Fusion,type_Tacos,type_Vegetarian,type_Vietnamese,type_Noodles,type_Soup,type_Fast Food,type_Indian,type_Sushi Bars,type_Ramen,type_Venues & Event Spaces,type_Sports Bars,type_American (Traditional),type_Tapas Bars,type_Middle Eastern,type_Tapas/Small Plates,type_Wine Bars,type_Spanish,type_Steakhouses,type_Southern,type_Comfort Food,type_Whiskey Bars,type_Basque,type_French,type_Cafes,type_Chicken Shop,type_Pop-Up Restaurants,type_Pizza,type_Lounges,type_Japanese,type_Dive Bars,type_Food Stands,type_Latin American,type_Breakfast & Brunch,type_Gastropubs,type_Salad,type_Mediterranean,type_Halal,type_Lebanese,type_Thai,type_Donuts,type_Sandwiches,type_Desserts,type_Coffee & Tea,type_Sicilian,type_Cuban,type_Poke,type_Juice Bars & Smoothies,type_Bakeries,type_Mini Golf,type_Barbeque,type_Coffee Roasteries,type_Hot Dogs,type_Vegan,type_Bubble Tea,type_Beer Bar,type_Restaurants,type_Food Court,type_Gelato,type_Wraps,type_Diners,type_Hookah Bars,type_Greek,type_Car Wash,type_Delis,type_Scandinavian,type_Cafeteria,type_Grocery,type_Gas Stations,type_Convenience Stores,type_Food Trucks,type_Buffets,score,advertised_restrant
-0,Aerial Kitchen & Bar,103. Aerial Kitchen & Bar,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
-1,Alluvia,69. Alluvia,5,,4 star rating,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-2,Antico Pizza,27. Antico Pizza,3214,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-3,Auto Spa Bistro,109. Auto Spa Bistro,127,,3 star rating,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,3,no
-4,Aviva by Kameel Midtown,76. Aviva by Kameel Midtown,40,,5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,no
-5,Aziza,15. Aziza,90,,4.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-6,Barcelona Westside Ironworks,16. Barcelona Westside Ironworks,505,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-7,Blu Seafood House,32. Blu Seafood House,69,,2 star rating,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no
-8,Bottega Luisa,146. Bottega Luisa,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,no
-9,Brittain Dining Hall,167. Brittain Dining Hall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,no
-10,Brown Bag Seafood,64. Brown Bag Seafood,36,,4.5 star rating,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-11,Burger King,145. Burger King,55,,2 star rating,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no
-12,Cafe Adison,159. Cafe Adison,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
-13,Cafe West Express,111. Cafe West Express,6,,4.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-14,Caffe Antico,92. Caffe Antico,78,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,3.5,no
-15,Caffeine Atlanta,100. Caffeine Atlanta,20,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,4,no
-16,Caffé Gio,128. Caffé Gio,89,,2.5 star rating,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,no
-17,Canopy Court,156. Canopy Court,1,,2 star rating,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no
-18,Capital Commons,97. Capital Commons,5,,5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,no
-19,Carolyn’s Gourmet Cafe,118. Carolyn’s Gourmet Cafe,51,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-20,Cheba Hut Toasted Subs,39. Cheba Hut Toasted Subs,38,,4.5 star rating,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-21,Chicago’s Very Own,154. Chicago’s Very Own,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
-22,Chick-fil-A,122. Chick-fil-A,56,,3 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,no
-23,Chirori - Yakitori & Kushikatsu,30. Chirori - Yakitori & Kushikatsu,37,,4.5 star rating,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-24,Choong Man Chicken - Georgia Tech,6. Choong Man Chicken - Georgia Tech,51,,4 star rating,,,,,,,,1.0,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-25,Circle Poke,52. Circle Poke,96,,4.5 star rating,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-26,Club Room,162. Club Room,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
-27,Cluck N Mooh,116. Cluck N Mooh,,,,,,,,,,,1.0,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
-28,Conference Dining Room,168. Conference Dining Room,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,no
-29,Cook Out,65. Cook Out,184,,3.5 star rating,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,3.5,no
-30,Cooks & Soldiers,23. Cooks & Soldiers,645,,4.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-31,Crazy Cuban,46. Crazy Cuban,103,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-32,DaVinci’s Pizzeria,93. DaVinci’s Pizzeria,437,,3.5 star rating,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-33,Domino’s Pizza,127. Domino’s Pizza,45,$,1 star rating,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,no
-34,Dos Amigos,85. Dos Amigos,53,,3 star rating,,,1.0,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,no
-35,DramaTech Concessions,82. DramaTech Concessions,1,,5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,5,no
-36,E Ramen +,22. E Ramen +,251,,4.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-37,Eight Sushi Lounge,28. Eight Sushi Lounge,1007,,4.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-38,El Burro Pollo,31. El Burro Pollo,35,,4.5 star rating,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-39,Eleventh Street Pub,73. Eleventh Street Pub,105,,3.5 star rating,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-40,Falafel Nation,75. Falafel Nation,43,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-41,Farm Burger - Midtown Atlanta,53. Farm Burger - Midtown Atlanta,61,,4 star rating,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-42,Fava Mezze,143. Fava Mezze,6,,3 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,no
-43,Firehouse Subs,110. Firehouse Subs,63,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,3.5,no
-44,First Restaurant,135. First Restaurant,1,,1 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,no
-45,Flower Child - Atlanta,56. Flower Child - Atlanta,21,,4.5 star rating,,,,,,1.0,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-46,Food Terminal - Atlanta,4. Food Terminal - Atlanta,173,$$,4.5 star rating,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-47,Forza Storico,Forza Storico,222,,4 star rating,,,,1.0,1.0,,1.0,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,yes
-48,Freddie’s Bananas,124. Freddie’s Bananas,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
-49,Genji,107. Genji,2,,3 star rating,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,no
-50,Georgia Cafe,131. Georgia Cafe,4,,3 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,3,no
-51,Gio’s Chicken Amalfitano,35. Gio’s Chicken Amalfitano,402,,4 star rating,,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-52,Gio’s Sicilian Pizza Shop,45. Gio’s Sicilian Pizza Shop,9,,4.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-53,Goodfellas Pizza & Wings,87. Goodfellas Pizza & Wings,252,,2.5 star rating,,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,no
-54,Goodfellas Pizza and Wings,101. Goodfellas Pizza and Wings,12,,2 star rating,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no
-55,Gyro Bros,105. Gyro Bros,66,,3 star rating,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,3,no
-56,HB Food Anatomy,54. HB Food Anatomy,2,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-57,IKEA Restaurant,138. IKEA Restaurant,146,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,3.5,no
-58,J. Christopher’s,112. J. Christopher’s,182,,3 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,no
-59,JCT Kitchen & Bar,9. JCT Kitchen & Bar,1795,,4 star rating,,,,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-60,Jimmy John’s,125. Jimmy John’s,69,,3 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,3,no
-61,Jimmy’s,166. Jimmy’s,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
-62,King Crab Atl,84. King Crab Atl,131,,2 star rating,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no
-63,Krystal,132. Krystal,39,,2.5 star rating,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,no
-64,La Fonda Latina,74. La Fonda Latina,355,,3.5 star rating,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-65,Le Fat,10. Le Fat,402,$$,4 star rating,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-66,Lil Dino Subs,151. Lil Dino Subs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,no
-67,Little Italy Atlanta,25. Little Italy Atlanta,1,,5 star rating,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,no
-68,Little Trouble,58. Little Trouble,231,,3.5 star rating,,,,,,,1.0,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-69,LiveWire Coffee,155. LiveWire Coffee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
-70,LowCountry Steak,62. LowCountry Steak,42,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-71,Lucky Buddha,77. Lucky Buddha,186,,2 star rating,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no
-72,Maple Street Biscuit Company,61. Maple Street Biscuit Company,83,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,3.5,no
-73,Marcel,17. Marcel,641,,4.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-74,Marlow’s Tavern,34. Marlow’s Tavern,593,,4 star rating,,,,,,1.0,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-75,McCray’s Tavern Midtown,13. McCray’s Tavern Midtown,174,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-76,McDonald’s,133. McDonald’s,104,,2 star rating,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no
-77,Michael’s Cafe,123. Michael’s Cafe,1,,5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,no
-78,Midcity Cafe,83. Midcity Cafe,19,,4.5 star rating,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-79,Moe’s Original Bar B Que,88. Moe’s Original Bar B Que,189,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,3.5,no
-80,Moe’s Southwest Grill,Moe’s Southwest Grill,51,,2.5 star rating,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,yes
-81,Momo Cafe,40. Momo Cafe,104,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-82,Momonoki,24. Momonoki,395,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-83,Mushi Ni,108. Mushi Ni,1,,4 star rating,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-84,Nagomiya,19. Nagomiya,28,,4.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-85,North Ave Dining Hall,164. North Ave Dining Hall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,no
-86,Nova Sushi Bar & Asian Bistro II,37. Nova Sushi Bar & Asian Bistro II,35,,4.5 star rating,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-87,O-Ku Sushi,49. O-Ku Sushi,484,,4 star rating,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-88,Oddbird,26. Oddbird,22,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-89,Olive,115. Olive,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
-90,Omakase By Yun,20. Omakase By Yun,19,,5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,no
-91,Ormsbys,81. Ormsbys,708,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,3.5,no
-92,Panda Express,48. Panda Express,12,,3.5 star rating,,,,,,,,,,,,,,,1.0,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-93,Panera Bread,129. Panera Bread,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
-94,Papa John’s Pizza,169. Papa John’s Pizza,91,,1.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.5,no
-95,Park 27,59. Park 27,71,,3.5 star rating,,,,,,,1.0,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,3.5,no
-96,Pho King,80. Pho King,243,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,3.5,no
-97,Pijiu Belly,7. Pijiu Belly,442,,4 star rating,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-98,Pita Pit,120. Pita Pit,58,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-99,Pizza Hut,144. Pizza Hut,43,,1.5 star rating,,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.5,no
-100,Poke Burri CODA,78. Poke Burri CODA,9,,4 star rating,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-101,Poppin Pita Grill,66. Poppin Pita Grill,153,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-102,Puttshack at The Interlock,55. Puttshack at The Interlock,112,,3 star rating,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,3,no
-103,QDOBA Mexican Eats,QDOBA Mexican Eats,5,,3 star rating,,1.0,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,yes
-104,Quiktrip,148. Quiktrip,2,,3 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,3,no
-105,Ray’s New York Pizza,117. Ray’s New York Pizza,149,,3 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,no
-106,Ray’s Pizza Express,102. Ray’s Pizza Express,3,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-107,Redbird,11. Redbird,97,,4 star rating,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-108,Reverence,152. Reverence,,,,,,,,,1.0,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
-109,Rising Roll Gourmet Café - Midtown,136. Rising Roll Gourmet Café - Midtown,22,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-110,Rock Steady - Atlanta,2. Rock Steady - Atlanta,197,$$,4 star rating,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-111,Rocky Mountain Pizza,57. Rocky Mountain Pizza,214,,3 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,no
-112,Rowdy Tiger Whiskey Bar & Kitchen,18. Rowdy Tiger Whiskey Bar & Kitchen,102,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-113,Saint Germain Bakery,70. Saint Germain Bakery,13,,4.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-114,Sarpino’s Pizzeria,113. Sarpino’s Pizzeria,225,,2 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no
-115,Satto Thai & Sushi Bar,63. Satto Thai & Sushi Bar,223,$$,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-116,Sigma Alpha Epsilon,149. Sigma Alpha Epsilon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,no
-117,Six Feet Under Pub & Fish House- Westside,47. Six Feet Under Pub & Fish House- Westside,849,,3.5 star rating,,,,,,,1.0,,,,1.0,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-118,Slim & Husky’s Pizza Beeria,41. Slim & Husky’s Pizza Beeria,416,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-119,"Snooze, an A.M. Eatery","43. Snooze, an A.M. Eatery",10,,4.5 star rating,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-120,Spice House,50. Spice House,22,,4 star rating,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-121,Spice House Midtown,21. Spice House Midtown,36,,4 star rating,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-122,Star of India,Star of India,6,,4.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,yes
-123,Steamhouse Lounge,29. Steamhouse Lounge,850,,4 star rating,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-124,Sublime Doughnuts,38. Sublime Doughnuts,1191,,4 star rating,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-125,Subway,157. Subway,8,,2.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,no
-126,Sweet & Fresh,72. Sweet & Fresh,24,,3 star rating,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,,,,,,,,,,,,,,,,,,3,no
-127,TGM Soup,141. TGM Soup,6,,3 star rating,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,3,no
-128,Taco Bell,130. Taco Bell,21,,2 star rating,,1.0,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no
-129,Tannour Mediterranean Grill,36. Tannour Mediterranean Grill,291,,4.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-130,TastyBus,150. TastyBus,31,,2.5 star rating,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,2.5,no
-131,The Collective Food Hall at Coda,90. The Collective Food Hall at Coda,1,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,4,no
-132,The Garden Grille and Bar,126. The Garden Grille and Bar,3,,3 star rating,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,no
-133,The Halal Guys,60. The Halal Guys,122,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-134,The Krystal Company,163. The Krystal Company,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,no
-135,The Optimist,3. The Optimist,1764,,4.5 star rating,,,,,,,1.0,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-136,The Silver Skillet,67. The Silver Skillet,413,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-137,The Varsity,91. The Varsity,2132,,3 star rating,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,3,no
-138,There on Fifth,1. There on Fifth,39,,5 star rating,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,no
-139,Thumbs Up Diner,33. Thumbs Up Diner,418,$$,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-140,Tiff’s Treats,89. Tiff’s Treats,79,,4.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-141,Tiny Bistro - Temp. CLOSED,121. Tiny Bistro - Temp. CLOSED,46,$,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-142,Touch,68. Touch,165,,3.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,no
-143,Tropical Smoothie Cafe,134. Tropical Smoothie Cafe,47,,3 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,3,no
-144,Tropicale,95. Tropicale,45,,2.5 star rating,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,no
-145,Turner Station Break,158. Turner Station Break,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,no
-146,Twisted Kitchen,79. Twisted Kitchen,63,,3 star rating,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,no
-147,Twisted Taco,106. Twisted Taco,4,,3 star rating,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,no
-148,Umma’s House Restaurant & Cafe,98. Umma’s House Restaurant & Cafe,92,,3 star rating,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,no
-149,Upbeet,71. Upbeet,651,,4.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,4.5,no
-150,Velvet Taco,8. Velvet Taco,52,,4.5 star rating,,,,,,1.0,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-151,Vietvana Pho Noodle House - Atlanta,51. Vietvana Pho Noodle House - Atlanta,64,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-152,Waffle House,160. Waffle House,131,,3 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,3,no
-153,Wagaya - Westside,12. Wagaya - Westside,592,,4 star rating,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-154,West Egg Café,42. West Egg Café,1546,,4 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
-155,West Village,147. West Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,no
-156,Wild Bean Cafe,161. Wild Bean Cafe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
-157,Wildleaf,44. Wildleaf,3,,4.5 star rating,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,no
-158,Wingnuts,94. Wingnuts,120,$,3 star rating,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,3,no
-159,Yalla,99. Yalla,6,,3 star rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,no
-160,bartaco,14. bartaco,1302,$$,4 star rating,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,no
+,name,reviews,price,star,restauran_type,rating,advertised_restrant
+0,Aerial Kitchen & Bar,,,,"['Bars', 'American (Traditional)']",,yes
+1,Alluvia,6,,4,"['Steakhouses', 'Mexican']",4,yes
+2,Antico Pizza,3216,,4,['Pizza'],4,yes
+3,Auto Spa Bistro,127,,3,"['American (New)', 'Car Wash']",3,yes
+4,Aviva by Kameel Midtown,40,,5,"['Mediterranean', 'Middle Eastern']",5,yes
+5,Aziza,90,,4.5,['Middle Eastern'],4.5,yes
+6,Barcelona Westside Ironworks,505,,4,"['Tapas/Small Plates', 'Wine Bars', 'Spanish']",4,yes
+7,Blu Seafood House,69,,2,['Seafood'],2,yes
+8,Bottega Luisa,,,,"['Grocery', 'Italian', 'Pizza']",,yes
+9,Brittain Dining Hall,,,,['Cafeteria'],,yes
+10,Brown Bag Seafood,36,,4.5,"['Seafood', 'Salad', 'Sandwiches']",4.5,yes
+11,Burger King,55,,2,"['Fast Food', 'Burgers']",2,yes
+12,Cafe Adison,,,,['Cafes'],,yes
+13,Cafe West Express,6,,4.5,"['Juice Bars & Smoothies', 'Soup', 'Cafes']",4.5,yes
+14,Caffe Antico,78,,3.5,"['Cafes', 'Coffee & Tea', 'Gelato']",3.5,yes
+15,Caffeine Atlanta,20,,4,"['Coffee & Tea', 'Hookah Bars', 'Cafes']",4,yes
+16,Caffé Gio,89,,2.5,"['Cafes', 'Italian']",2.5,yes
+17,Canopy Court,1,,2,"['American (Traditional)', 'Bars']",2,yes
+18,Capital Commons,5,,5,"['Coffee & Tea', 'Sandwiches']",5,yes
+19,Carolyn’s Gourmet Cafe,51,,3.5,"['Pizza', 'Cafes', 'American (Traditional)']",3.5,yes
+20,Cheba Hut Toasted Subs,38,,4.5,"['Sandwiches', 'Salad', 'Bars']",4.5,yes
+21,Chicago’s Very Own,,,,"['Southern', 'Breakfast & Brunch']",,yes
+22,Chick-fil-A,11,,3.5,['Fast Food'],3.5,yes
+23,Chirori - Yakitori & Kushikatsu,37,,4.5,"['Japanese', 'Seafood']",4.5,yes
+24,Choong Man Chicken - Georgia Tech,52,,4,"['Chicken Wings', 'Korean']",4,yes
+25,Circle Poke,96,,4.5,"['Poke', 'Asian Fusion', 'Japanese']",4.5,yes
+26,Club Room,,,,"['Burgers', 'Pizza', 'Sports Bars']",,yes
+27,Cluck N Mooh,,,,"['Burgers', 'Chicken Wings']",,yes
+28,Conference Dining Room,,,,['Buffets'],,yes
+29,Cook Out,184,,3.5,"['Fast Food', 'Burgers', 'Hot Dogs']",3.5,yes
+30,Cooks & Soldiers,645,,4.5,"['Spanish', 'Basque', 'French']",4.5,yes
+31,Crazy Cuban,103,,4,"['Cuban', 'Sandwiches']",4,yes
+32,DaVinci’s Pizzeria,437,,3.5,"['Pizza', 'Italian', 'Sandwiches']",3.5,yes
+33,Domino’s Pizza,45,$,1,"['Pizza', 'Chicken Wings', 'Sandwiches']",1,yes
+34,Dos Amigos,53,,3,"['Tacos', 'Tex-Mex', 'Sports Bars']",3,yes
+35,DramaTech Concessions,1,,5,['Restaurants'],5,yes
+36,E Ramen +,251,,4.5,"['Ramen', 'Tapas/Small Plates']",4.5,yes
+37,Eight Sushi Lounge,1008,,4.5,"['Sushi Bars', 'Lounges', 'Japanese']",4.5,yes
+38,El Burro Pollo,35,,4.5,"['Food Stands', 'Latin American', 'Mexican']",4.5,yes
+39,Eleventh Street Pub,105,,3.5,"['American (Traditional)', 'Pubs']",3.5,yes
+40,Falafel Nation,43,,4,['Middle Eastern'],4,yes
+41,Farm Burger - Midtown Atlanta,61,,4,"['Burgers', 'Juice Bars & Smoothies', 'Fast Food']",4,yes
+42,Fava Mezze,6,,3,['Mediterranean'],3,yes
+43,Firehouse Subs,63,,3.5,"['Sandwiches', 'Fast Food', 'Delis']",3.5,yes
+44,First Restaurant,1,,1,['Breakfast & Brunch'],1,yes
+45,Flower Child - Atlanta,22,,4.5,"['Salad', 'American (New)', 'Vegetarian']",4.5,yes
+46,Food Terminal - Atlanta,173,$$,4.5,"['Malaysian', 'Pan Asian', 'Chinese']",4.5,yes
+47,Forza Storico,223,,4,"['Beer, Wine & Spirits', 'Italian']",4,yes
+48,Freddie’s Bananas,,,,['American (New)'],,yes
+49,Genji,2,,3,"['Asian Fusion', 'Sushi Bars', 'Ramen']",3,yes
+50,Georgia Cafe,4,,3,['Restaurants'],3,yes
+51,Gio’s Chicken Amalfitano,402,,4,"['Italian', 'Chicken Wings', 'Salad']",4,yes
+52,Gio’s Sicilian Pizza Shop,9,,4.5,"['Pizza', 'Sicilian']",4.5,yes
+53,Goodfellas Pizza & Wings,252,,2.5,"['Pizza', 'Chicken Wings', 'Italian']",2.5,yes
+54,Goodfellas Pizza and Wings,12,,2,"['Pizza', 'Chicken Wings', 'Salad']",2,yes
+55,Gyro Bros,66,,3,"['Greek', 'American (New)', 'Salad']",3,yes
+56,HB Food Anatomy,2,,3.5,"['Bakeries', 'Sandwiches']",3.5,yes
+57,IKEA Restaurant,146,,3.5,"['Scandinavian', 'Breakfast & Brunch', 'Cafeteria']",3.5,yes
+58,J. Christopher’s,182,,3,['Breakfast & Brunch'],3,yes
+59,JCT Kitchen & Bar,1796,,4,"['American (New)', 'Bars']",4,yes
+60,Jimmy John’s,69,,3,"['Sandwiches', 'Delis', 'Fast Food']",3,yes
+61,Jimmy’s,,,,['Breakfast & Brunch'],,yes
+62,King Crab Atl,131,,2,['Seafood'],2,yes
+63,Krystal,40,,2.5,"['Fast Food', 'Burgers']",2.5,yes
+64,La Fonda Latina,355,,3.5,"['Mexican', 'Cuban']",3.5,yes
+65,Le Fat,402,$$,4,"['Vietnamese', 'Noodles', 'Soup']",4,yes
+66,Lil Dino Subs,,,,['Restaurants'],,yes
+67,Little Italy Atlanta,2,,5,['Italian'],5,yes
+68,Little Trouble,231,,3.5,"['Asian Fusion', 'Cocktail Bars']",3.5,yes
+69,LiveWire Coffee,,,,"['Coffee & Tea', 'Pop-Up Restaurants']",,yes
+70,LowCountry Steak,42,,4,"['Southern', 'Steakhouses']",4,yes
+71,Lucky Buddha,186,,2,"['Chinese', 'Vietnamese', 'Thai']",2,yes
+72,Maple Street Biscuit Company,83,,3.5,"['Comfort Food', 'Sandwiches', 'Coffee Roasteries']",3.5,yes
+73,Marcel,641,,4.5,['Steakhouses'],4.5,yes
+74,Marlow’s Tavern,593,,4,"['American (New)', 'Gastropubs', 'Burgers']",4,yes
+75,McCray’s Tavern Midtown,174,,4,"['Venues & Event Spaces', 'Sports Bars', 'American (Traditional)']",4,yes
+76,McDonald’s,104,,2,"['Fast Food', 'Burgers', 'Coffee & Tea']",2,yes
+77,Michael’s Cafe,1,,5,['American (Traditional)'],5,yes
+78,Midcity Cafe,19,,4.5,"['Cafes', 'Bars']",4.5,yes
+79,Moe’s Original Bar B Que,189,,3.5,['Barbeque'],3.5,yes
+80,Moe’s Southwest Grill,51,,2.5,"['Mexican', 'Tex-Mex', 'Caterers']",2.5,yes
+81,Momo Cafe,104,,4,"['Desserts', 'Coffee & Tea', 'Breakfast & Brunch']",4,yes
+82,Momonoki,395,,4,"['Cafes', 'Ramen']",4,yes
+83,Mushi Ni,1,,4,"['Asian Fusion', 'American (Traditional)']",4,yes
+84,Nagomiya,28,,4.5,['Sushi Bars'],4.5,yes
+85,North Ave Dining Hall,,,,['Diners'],,yes
+86,Nova Sushi Bar & Asian Bistro II,35,,4.5,"['Sushi Bars', 'Asian Fusion', 'Thai']",4.5,yes
+87,O-Ku Sushi,484,,4,"['Japanese', 'Sushi Bars', 'Seafood']",4,yes
+88,Oddbird,22,,4,"['Southern', 'Chicken Shop', 'Pop-Up Restaurants']",4,yes
+89,Olive,,,,"['Italian', 'Sandwiches', 'Pizza']",,yes
+90,Omakase By Yun,19,,5,['Sushi Bars'],5,yes
+91,Ormsbys,708,,3.5,"['Sandwiches', 'Beer Bar', 'Whiskey Bars']",3.5,yes
+92,Panda Express,12,,3.5,"['Fast Food', 'Chinese']",3.5,yes
+93,Panera Bread,,,,"['Salad', 'Soup', 'Sandwiches']",,yes
+94,Papa John’s Pizza,91,,1.5,['Pizza'],1.5,yes
+95,Park 27,71,,3.5,"['Korean', 'Barbeque', 'Cocktail Bars']",3.5,yes
+96,Pho King,243,,3.5,"['Vietnamese', 'Soup', 'Bubble Tea']",3.5,yes
+97,Pijiu Belly,442,,4,"['Burgers', 'Pubs', 'Asian Fusion']",4,yes
+98,Pita Pit,58,,3.5,"['Sandwiches', 'Mediterranean', 'Fast Food']",3.5,yes
+99,Pizza Hut,43,,1.5,"['Pizza', 'Italian', 'Chicken Wings']",1.5,yes
+100,Poke Burri CODA,9,,4,"['Sushi Bars', 'Poke', 'Asian Fusion']",4,yes
+101,Poppin Pita Grill,153,,4,"['Mediterranean', 'Salad', 'Sandwiches']",4,yes
+102,Puttshack at The Interlock,113,,3,"['Bars', 'American (Traditional)', 'Mini Golf']",3,yes
+103,QDOBA Mexican Eats,5,,3,"['Mexican', 'Fast Food']",3,yes
+104,Quiktrip,2,,3,"['Gas Stations', 'Convenience Stores', 'Fast Food']",3,yes
+105,Ray’s New York Pizza,149,,3,['Pizza'],3,yes
+106,Ray’s Pizza Express,3,,3.5,['Pizza'],3.5,yes
+107,Redbird,97,,4,"['American (New)', 'Cocktail Bars']",4,yes
+108,Reverence,,,,"['Seafood', 'American (New)']",,yes
+109,Rising Roll Gourmet Café - Midtown,22,,3.5,"['Sandwiches', 'American (Traditional)', 'Salad']",3.5,yes
+110,Rock Steady - Atlanta,196,$$,4,"['Caribbean', 'Bars']",4,yes
+111,Rocky Mountain Pizza,214,,3,['Pizza'],3,yes
+112,Rowdy Tiger Whiskey Bar & Kitchen,102,,4,"['Southern', 'Comfort Food', 'Whiskey Bars']",4,yes
+113,Saint Germain Bakery,13,,4.5,"['Bakeries', 'French', 'Cafes']",4.5,yes
+114,Sarpino’s Pizzeria,225,,2,"['Pizza', 'Salad', 'Sandwiches']",2,yes
+115,Satto Thai & Sushi Bar,223,$$,3.5,"['Sushi Bars', 'Thai']",3.5,yes
+116,Sigma Alpha Epsilon,,,,"['Sports Bars', 'Greek']",,yes
+117,Six Feet Under Pub & Fish House- Westside,849,,3.5,"['Seafood', 'Tacos', 'Cocktail Bars']",3.5,yes
+118,Slim & Husky’s Pizza Beeria,416,,4,['Pizza'],4,yes
+119,"Snooze, an A.M. Eatery",10,,4.5,"['Breakfast & Brunch', 'Cocktail Bars']",4.5,yes
+120,Spice House,22,,4,['Caribbean'],4,yes
+121,Spice House Midtown,36,,4,['Caribbean'],4,yes
+122,Star of India,6,,4.5,['Indian'],4.5,yes
+123,Steamhouse Lounge,850,,4,"['Seafood', 'Dive Bars']",4,yes
+124,Sublime Doughnuts,1192,,4,"['Donuts', 'Burgers']",4,yes
+125,Subway,7,,3,['Sandwiches'],3,yes
+126,Sweet & Fresh,24,,3,"['Bubble Tea', 'Burgers', 'Juice Bars & Smoothies']",3,yes
+127,TGM Soup,6,,3,"['Soup', 'Salad', 'Food Court']",3,yes
+128,Taco Bell,21,,2,"['Fast Food', 'Mexican']",2,yes
+129,Tannour Mediterranean Grill,291,,4.5,"['Mediterranean', 'Halal', 'Lebanese']",4.5,yes
+130,TastyBus,31,,2.5,"['Food Trucks', 'Pizza', 'Mexican']",2.5,yes
+131,The Collective Food Hall at Coda,1,,4,['Food Court'],4,yes
+132,The Garden Grille and Bar,3,,3,"['American (Traditional)', 'Bars']",3,yes
+133,The Halal Guys,122,,3.5,"['Halal', 'Middle Eastern', 'Mediterranean']",3.5,yes
+134,The Krystal Company,,,,['Restaurants'],,yes
+135,The Optimist,1764,,4.5,"['Seafood', 'Cocktail Bars', 'Music Venues']",4.5,yes
+136,The Silver Skillet,413,,3.5,['Breakfast & Brunch'],3.5,yes
+137,The Varsity,2132,,3,"['Burgers', 'Hot Dogs', 'Fast Food']",3,yes
+138,There on Fifth,39,,5,"['American (New)', 'Cocktail Bars', 'Chicken Wings']",5,yes
+139,Thumbs Up Diner,418,$$,4,['Breakfast & Brunch'],4,yes
+140,Tiff’s Treats,79,,4.5,"['Desserts', 'Bakeries', 'Cafes']",4.5,yes
+141,Tiny Bistro - Temp. CLOSED,46,$,3.5,"['Sandwiches', 'American (Traditional)']",3.5,yes
+142,Touch,165,,3.5,['Indian'],3.5,yes
+143,Tropical Smoothie Cafe,47,,3,"['Juice Bars & Smoothies', 'Sandwiches']",3,yes
+144,Tropicale,45,,2.5,"['Cocktail Bars', 'Italian']",2.5,yes
+145,Turner Station Break,,,,['Cafeteria'],,yes
+146,Twisted Kitchen,64,,3,['American (New)'],3,yes
+147,Twisted Taco,4,,3,"['Mexican', 'Tex-Mex', 'Sports Bars']",3,yes
+148,Umma’s House Restaurant & Cafe,92,,3,"['Japanese', 'Korean', 'Sushi Bars']",3,yes
+149,Upbeet,651,,4.5,"['Salad', 'Juice Bars & Smoothies', 'Vegan']",4.5,yes
+150,Velvet Taco,54,,4.5,"['American (New)', 'Tacos', 'Vegetarian']",4.5,yes
+151,Vietvana Pho Noodle House - Atlanta,64,,4,"['Vietnamese', 'Noodles', 'Sandwiches']",4,yes
+152,Waffle House,131,,3,"['Diners', 'Breakfast & Brunch', 'American (Traditional)']",3,yes
+153,Wagaya - Westside,592,,4,"['Sushi Bars', 'Ramen', 'Seafood']",4,yes
+154,West Egg Café,1546,,4,"['Breakfast & Brunch', 'Sandwiches', 'Coffee & Tea']",4,yes
+155,West Village,,,,['Food Court'],,yes
+156,Wild Bean Cafe,,,,['Cafes'],,yes
+157,Wildleaf,3,,4.5,"['Salad', 'Sandwiches', 'Soup']",4.5,yes
+158,Wingnuts,120,$,3,"['Chicken Wings', 'Wraps', 'Sandwiches']",3,yes
+159,Yalla,6,,3,['Middle Eastern'],3,yes
+160,bartaco,1301,$$,4,"['Mexican', 'Tapas Bars']",4,yes

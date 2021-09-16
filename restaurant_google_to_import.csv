@@ -1,0 +1,208 @@
+restaurant_id,restauran_type,rating,reviews,price,source
+162,Restaurant,4.6,50,,google
+163,Indian restaurant,4.3,1050,$$,google
+164,Eclectic restaurant,4.5,1885,$$,google
+165,Turkish restaurant,4.3,129,,google
+166,Chicken wings restaurant,3.9,239,$,google
+167,Pizza restaurant,4.6,4457,$$,google
+168,American restaurant,4.5,621,$$,google
+169,Breakfast restaurant,4.6,5283,$,google
+170,New American restaurant,4.6,344,$$$$,google
+171,French restaurant,4.6,330,$$,google
+172,Pizza restaurant,4.5,754,$$,google
+6,Middle Eastern restaurant,4.6,144,,google
+173,Restaurant,4.8,383,$$$,google
+174,Italian restaurant,4.5,33,,google
+175,Mexican restaurant,3.9,543,$,google
+176,Spanish restaurant,4.5,1917,$$,google
+8,Taco restaurant,4.4,2096,$$,google
+177,Seafood restaurant,4.3,572,$$,google
+178,Seafood restaurant,4.4,17,,google
+179,Mexican restaurant,4.5,1903,$$,google
+180,Restaurant,3.8,2009,$$,google
+181,Restaurant,3.8,413,,google
+13,Restaurant,3.2,1166,$,google
+182,Middle Eastern restaurant,4.6,621,$,google
+183,Breakfast restaurant,4.3,123,,google
+184,Vegan restaurant,4.6,977,$$,google
+185,European restaurant,4.5,3616,$$,google
+186,Italian restaurant,4.4,475,$$,google
+187,Restaurant,4.1,98,$$,google
+188,Seafood restaurant,4.0,437,$$,google
+189,Restaurant,4.5,267,,google
+190,Restaurant,3.6,206,,google
+24,Fast food restaurant,4.5,2562,$,google
+191,Tex-Mex restaurant,3.8,1171,$$,google
+192,Mexican restaurant,3.5,672,$,google
+193,Restaurant,3.6,615,$$$,google
+194,Southern restaurant (US),4.5,2,,google
+31,Restaurant,4.1,2270,$,google
+32,Spanish restaurant,4.7,966,$$$,google
+195,Restaurant,3.5,195,,google
+196,Brunch restaurant,4.4,628,$$,google
+197,Restaurant,,,,google
+198,Fast food restaurant,3.9,494,$,google
+199,Restaurant,4.1,102,$,google
+200,German restaurant,4.4,1949,$$,google
+201,Restaurant,4.1,13,$$,google
+202,Restaurant,4.5,1689,$,google
+203,Mediterranean restaurant,4.1,422,,google
+204,Modern European restaurant,4.5,258,$$,google
+205,European restaurant,4.6,1024,$$$,google
+206,Brunch restaurant,4.6,1153,$$,google
+39,Sushi restaurant,4.7,1199,$$,google
+207,Mexican restaurant,4.3,1163,,google
+41,Restaurant,4.5,530,$,google
+208,American restaurant,4.4,795,$$$,google
+209,American restaurant,4.9,199,$$,google
+210,Restaurant,4.6,11,,google
+211,Hamburger restaurant,4.3,1054,$$,google
+212,American restaurant,4.7,50,$$,google
+213,American restaurant,4.5,2184,$$,google
+214,Asian fusion restaurant,4.6,386,$$,google
+215,Barbecue restaurant,4.6,7182,$$,google
+216,Restaurant,4.5,22,,google
+217,Italian restaurant,4.5,806,$$,google
+218,Mediterranean restaurant,,,$,google
+219,Fast food restaurant,3.6,386,$,google
+220,Takeout Restaurant,4.7,41,,google
+53,Italian restaurant,4.5,848,$$,google
+221,American restaurant,4.4,199,,google
+55,Takeout Restaurant,3.5,1121,$,google
+222,Breakfast restaurant,4.3,15,,google
+223,Fast food restaurant,4.6,924,$,google
+224,Restaurant,4.5,227,$$,google
+225,American restaurant,4.1,4829,$$,google
+226,Breakfast restaurant,4.4,1618,$$,google
+227,Restaurant,4.1,139,$$,google
+228,Restaurant,3.6,3149,$$,google
+229,American restaurant,4.6,1946,$$$,google
+230,Mexican restaurant,4.9,8,,google
+59,Swedish restaurant,4.0,57,$,google
+231,Caribbean restaurant,4.3,281,$$,google
+232,American restaurant,4.2,579,$$,google
+233,Restaurant,4.1,79,$$,google
+234,Restaurant,2.9,21,,google
+235,Hamburger restaurant,4.1,720,$$,google
+236,Restaurant,4.4,891,$$,google
+237,Restaurant,4.0,404,$$,google
+238,Vietnamese restaurant,5.0,1,,google
+239,Chicken wings restaurant,4.5,77,$,google
+240,Soul food restaurant,4.3,1937,$,google
+241,Restaurant,4.4,18,,google
+65,Fast food restaurant,3.4,1173,$,google
+242,Korean restaurant,4.4,623,$,google
+66,Tex-Mex restaurant,4.3,1443,$,google
+243,Restaurant,4.8,253,,google
+67,Vietnamese restaurant,4.2,392,$$,google
+244,Restaurant,4.6,389,$$,google
+245,Restaurant,,,$$,google
+246,New American restaurant,4.0,209,$$$,google
+73,Chinese restaurant,3.2,464,$,google
+247,Restaurant,2.3,160,,google
+248,Restaurant,3.4,7,,google
+249,Sushi restaurant,4.4,552,$$,google
+250,Southern restaurant (US),4.4,9999,$$,google
+251,Restaurant,4.9,72,$$,google
+252,Pizza restaurant,4.4,1669,$$,google
+253,Fine dining restaurant,3.9,1000,$$$,google
+254,Fast food restaurant,2.9,2411,$,google
+255,Pizza restaurant,4.4,926,$$,google
+256,Pizza restaurant,4.3,1672,$$,google
+257,Pizza restaurant,4.4,679,$$,google
+258,Pizza restaurant,4.0,410,$$,google
+259,Restaurant,4.1,17,,google
+260,Restaurant,4.4,20,,google
+261,American restaurant,4.5,950,$$$,google
+262,Barbecue restaurant,4.3,683,$$,google
+263,Mexican restaurant,4.2,553,$,google
+84,Ramen restaurant,4.3,494,$$,google
+264,Restaurant,4.5,780,$$$$,google
+265,Restaurant supply store,3.6,35,,google
+266,Fast food restaurant,3.2,771,$,google
+267,Fast food restaurant,3.8,1419,$,google
+268,Chicken restaurant,3.9,1323,$,google
+269,American restaurant,4.6,1911,$$,google
+270,Japanese restaurant,4.4,1452,$$,google
+271,Thai restaurant,4.6,1125,$$$,google
+272,Caribbean restaurant,4.1,2524,$$,google
+273,Restaurant,4.3,250,$$,google
+274,Restaurant,2.7,3,,google
+275,Mexican restaurant,4.3,4494,$$,google
+276,Mexican restaurant,4.5,2669,$$,google
+277,Restaurant,4.1,75,,google
+278,Italian restaurant,4.3,381,$$,google
+94,Chinese restaurant,4.0,557,$,google
+279,Pizza restaurant,3.4,554,$,google
+280,American restaurant,4.3,1654,$$,google
+281,Soul food restaurant,3.9,2648,$$,google
+282,Italian restaurant,4.5,870,$$,google
+283,Southern restaurant (US),4.0,1201,$$,google
+284,Asian restaurant,4.6,2490,$$,google
+285,Chicken restaurant,3.7,1038,$,google
+286,Restaurant,4.6,18,$,google
+105,Mexican restaurant,3.4,39,$,google
+287,Family restaurant,4.4,2435,$$,google
+288,Sushi restaurant,3.7,2078,$$,google
+289,American restaurant,4.3,368,$$,google
+290,Pizza restaurant,4.2,527,$$,google
+291,Restaurant,4.2,223,,google
+292,Restaurant supply store,3.9,369,,google
+293,Pizza restaurant,4.6,448,$,google
+114,Restaurant,3.8,114,,google
+294,Restaurant,4.7,117,,google
+295,Southern restaurant (US),4.5,1753,$,google
+296,Seafood restaurant,4.3,2959,$$,google
+297,Pizza restaurant,4.5,512,$,google
+298,Restaurant,4.4,47,,google
+299,Italian restaurant,4.5,735,$$$,google
+300,Restaurant,4.5,268,,google
+301,Vegan restaurant,4.2,1015,$$,google
+302,Restaurant,4.5,150,,google
+303,Health food restaurant,4.7,191,$$,google
+304,Soup restaurant,4.8,310,$$,google
+305,Restaurant,4.6,2668,$$,google
+306,Restaurant,4.1,849,$$,google
+307,Persian restaurant,4.1,602,$$,google
+308,Restaurant,4.1,3586,$$,google
+309,Restaurant,4.3,190,$,google
+310,Restaurant supply store,4.6,10,,google
+311,Thai restaurant,4.4,768,$$,google
+128,Restaurant,4.3,353,$,google
+129,Fast food restaurant,3.6,341,$,google
+130,Mediterranean restaurant,4.4,450,$,google
+312,Mexican restaurant,4.4,806,$,google
+313,Mexican restaurant,4.6,368,$,google
+314,American restaurant,4.3,3260,$$,google
+315,Southern restaurant (US),4.2,2701,$,google
+316,Fine dining restaurant,4.7,1012,$$$$,google
+317,Fine dining restaurant,4.6,742,$$,google
+318,New American restaurant,3.7,245,,google
+319,Restaurant,4.6,815,,google
+320,Fondue restaurant,4.4,1018,$$$,google
+321,Restaurant,4.0,2771,$$,google
+322,Restaurant,4.6,2074,$$,google
+323,Restaurant,4.3,3344,$$$,google
+139,Fast food restaurant,4.1,18063,$,google
+324,Restaurant,4.5,73,,google
+140,Restaurant,4.5,54,$$,google
+325,Restaurant,4.2,606,$$,google
+326,Asian restaurant,3.5,459,$,google
+327,Restaurant,4.4,4642,$$,google
+328,Restaurant,4.0,32,$,google
+145,Restaurant,3.7,188,$,google
+329,Restaurant,4.6,150,,google
+330,Restaurant,4.3,354,,google
+331,Thai restaurant,4.4,1150,$$,google
+332,Mexican restaurant,4.7,406,,google
+333,Eclectic restaurant,4.3,177,$$$,google
+334,Fast food restaurant,4.3,334,$,google
+149,Fast food restaurant,4.1,8,$$,google
+154,Breakfast restaurant,4.0,1113,$,google
+155,Japanese restaurant,4.6,1287,$$,google
+335,American restaurant,4.4,2108,$$,google
+336,American restaurant,4.3,967,$$$,google
+337,Tex-Mex restaurant,4.5,765,$,google
+338,Southern restaurant (US),4.5,462,$$$,google
+339,New American restaurant,4.0,3559,$$,google
+340,Restaurant,4.0,515,$$,google
